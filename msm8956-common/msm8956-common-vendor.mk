@@ -550,4 +550,5 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     TimeService \
     QPerformance \
-    UxPerformance
+    UxPerformance \
+    chargeonlymode
